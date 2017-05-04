@@ -5,7 +5,7 @@ import time
 
 '''
 # EXAMPLE 1: Bulk load of 100 test users (Lsykwalker0@example.com -> Lskywalker99@example.com)
-ping.bulk_test_users_load(20, "Foobar9202192!")
+ping.bulk_test_users_load(100, "Foobar9202192!")
 
 # Use a loop with time.sleep(30) if you get throttled by Ping API.
 # To load 1000 users, do 10 steps of 100 with 30 second "breaks" in between
