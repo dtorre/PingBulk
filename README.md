@@ -16,4 +16,5 @@ AUTHENTICATION
 You'll need to create a file that stores your API keys and secrets. The name of the file is "secrets.txt" and the format is:
 
 ping.clientid={your_ping_client_id}
+
 ping.apikey={your_ping_api_key}
